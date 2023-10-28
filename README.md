@@ -1,5 +1,5 @@
 # web-do an
-group 23 sgu
+Group 23 sgu
 
 3122410127 Nguyễn Huy Hoàng
 
